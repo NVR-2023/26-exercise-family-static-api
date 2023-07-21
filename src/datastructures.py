@@ -2,6 +2,7 @@ from random import randint
 
 
 # Data Initialziation
+# Instatiates family members
 
 class FamilyStructure:
     def __init__(self, last_name):
