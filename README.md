@@ -1,3 +1,18 @@
+***************************************************************************************************************
+Exercise #26: Static Family Aoy, defining data structures, classes, methods and routes
+
+
+
+By Nuno Rodrigues
+
+Mark received:
+Date:
+Teacher:
+***************************************************************************************************************
+
+
+
+
 <!-- hide -->
 # Family Static API
 <!-- endhide -->
