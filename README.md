@@ -1,3 +1,13 @@
+***************************************************************************************************************
+Exercise #26: Family Static API using Python, implementing standard CRUD functionalities via models and endpoints
+
+
+
+
+Mark received:
+Date: 
+Teacher:
+***************************************************************************************************************
 <!-- hide -->
 # Family Static API
 <!-- endhide -->
